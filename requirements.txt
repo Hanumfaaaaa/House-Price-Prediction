@@ -1,4 +1,5 @@
 streamlit
 pandas
-scikit-learn
+scikit-learn # Atau library yang Anda gunakan untuk melatih model, jika tidak scikit-learn
+joblib
 
